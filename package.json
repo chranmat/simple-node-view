@@ -1,0 +1,33 @@
+{
+  "name": "simple-node-view",
+  "version": "1.0.0",
+  "description": "Simple template/view engine for NodeJS",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chranmat/simple-node-view.git"
+  },
+  "keywords": [
+    "template",
+    "view",
+    "engine",
+    "html",
+    "express",
+    "memory",
+    "in-memory",
+    "simple",
+    "fast"
+  ],
+  "author": "Christian A. Mathiesen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chranmat/simple-node-view/issues"
+  },
+  "homepage": "https://github.com/chranmat/simple-node-view#readme"
+}
