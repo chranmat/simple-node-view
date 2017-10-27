@@ -6,7 +6,7 @@ Imagine you have a smaller web project and just need a fast (in memory), extreme
 ## Very very simple
 First of all I have to say; lower your expectations. This module is very very simple, but that´s also the beauty of it I think. Your machine dosen´t need to walk through all these lines of unnecessary code for every request.
 
-This module is 36 lines of code including comments and spaces. There is two function exports; load and get. What it simply does is to "load" all HTML templates from a directory in to an object in memory, then you use "get" to render a certian HTML template by replacing variables in the HTML file.
+This module is 35 lines of code including comments and spaces. There is two function exports; load and get. What it simply does is to "load" all HTML templates from a directory in to an object in memory, then you use "get" to render a certian HTML template by replacing variables in the HTML file.
 
 ## Install
 ```
@@ -58,3 +58,6 @@ app.listen(3000, function(err) {
 ```
 This is what it looks like
 ![alt text](screenshot.png)
+
+## Updates
+* Removed unecessary code, version 1.0.1 published to npm.
