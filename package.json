@@ -1,6 +1,6 @@
 {
   "name": "simple-node-view",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple template/view engine for NodeJS",
   "main": "index.js",
   "directories": {
