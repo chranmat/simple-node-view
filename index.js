@@ -27,8 +27,9 @@ exports.get = function(view, keys) {
 
     content = views[view]
 
-    for (var key in keys) {
-        content = content.replace('&' + key + ';', keys[key]);
+    for (var key in keys) {        
+        let regex = new RegExp(`&${key};`, 'g');
+        content = content.replace(regex, keys[key])
     }
 
     return content;
