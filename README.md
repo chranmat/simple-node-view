@@ -60,4 +60,9 @@ This is what it looks like
 ![alt text](screenshot.png)
 
 ## Updates
-* Removed unecessary code, version 1.0.1 published to npm.
+* 1.0.2
+** Global updates of enteties in template
+* 1.0.1
+** Removed unecessary code, version 1.0.1 published to npm.
+* 1.0.0
+** Initial version released
