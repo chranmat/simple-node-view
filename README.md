@@ -60,8 +60,8 @@ This is what it looks like
 ![alt text](screenshot.png)
 
 ## Updates
-### 1.0.2
-* Global updates of enteties in template
+### 1.0.2:
+* Support for global update of template variables
 
 ### 1.0.1:
 * Removed unecessary code, version 1.0.1 published to npm.
